@@ -1,4 +1,4 @@
-# first
-for tutorals
-fatima iqbal  
-
+# first project
+for tutoral purpose.  
+Author: Fatima Iqbal
+ 
